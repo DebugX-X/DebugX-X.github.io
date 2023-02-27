@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = () => { 
+const About = () => {
   return (
     <div
       name="about"
@@ -22,17 +22,19 @@ const About = () => {
               <p>
                 Hi. I'm Vaibhav Saini.
                 <br />
-                Please free to take a look around.
+                Please feel free to take a look around.
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                A data scientist with experience in building ML models and
+                deploying them to production. A software developer with experience
+                in building Responsive and Scalable Web apps.
+                I am well-knowledged in Data science and Machine Learning principles and
+                practices, along with required software development principles.
+                In addition, I am always keen to learn new technologies and merging them with my experiences
+                in Data Science and Software Development.
               </p>
             </div>
           </div>

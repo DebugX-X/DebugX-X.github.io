@@ -12,12 +12,18 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a {/* Full Stack */} Developer and Data Analyst
+            I'm a Data Analyst and Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 4 years of experience in graphics design and web development.
+            I have 2 years of experience in data analysis and 4 years of
+            experience in web/software development. Currently, I love to 
+            experiment with data and build web applications using technologies 
+            like NLP, CV, React, and SQLite.
+
+
+            {/* I have 4 years of experience in graphics design and web development.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next.js and Mongodb.
+            React, Tailwind, Next.js and Mongodb. */}
           </p>
           <div>
             <Link
