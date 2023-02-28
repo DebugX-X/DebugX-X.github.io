@@ -28,13 +28,20 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                A data scientist with experience in building ML models and
+                Experienced in both data science and software development, 
+                I have built and deployed ML models to production and 
+                created responsive, scalable web applications. 
+                I possess knowledge of data science, machine learning, 
+                and software development principles and 
+                am constantly seeking to learn new technologies to enhance my skills.
+
+                {/* A data scientist with experience in building ML models and
                 deploying them to production. A software developer with experience
                 in building Responsive and Scalable Web apps.
                 I am well-knowledged in Data science and Machine Learning principles and
                 practices, along with required software development principles.
                 In addition, I am always keen to learn new technologies and merging them with my experiences
-                in Data Science and Software Development.
+                in Data Science and Software Development. */}
               </p>
             </div>
           </div>
